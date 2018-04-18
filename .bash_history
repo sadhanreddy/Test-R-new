@@ -184,3 +184,55 @@ git pull https://github.com/sadhanreddy/test-repo master
 git pull https://github.com/sadhanreddy/test-repo master:dev1
 git merge
 git push
+cd
+git commit -m 
+git commit -m "dsa"
+git commit -a "ds"
+git commit -a
+git pull https://github.com/sadhanreddy/test-repo master
+git checkin master
+git checkout master
+ls
+git log
+git checkout dev1
+git log
+git checkout master
+cat index.html
+git update
+git commit
+git add index.html
+git commit -m "updated"
+git log
+git checkout dev1
+cat index.html
+git branch
+git checkout master
+git merge dev1
+cat index.html
+git branch dev2
+git checkout dev32
+git checkout dev2
+git lofg
+git log
+vi index.html
+git log
+git add index.htnl
+git commit -m "merge"
+git checkout master
+git merge dev2
+cat index.html
+ls
+git head
+git --version
+mkdir git-dir
+ls
+ls
+git init
+git add .
+git commit -m ""hello
+git remote add origin https://github.com/sadhanreddy/Test-R-new.git
+git remote
+git push -u origin master
+git remote set-url origin https://github.com/sadhanreddy/Test-R-new.git
+git push -u origin master
+exit
